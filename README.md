@@ -13,7 +13,7 @@ scoop install <app>
 
 | App | Description |
 | --- | --- |
-| _(none published yet)_ | |
+| [aliasdeck](https://github.com/angeltonio/aliasdeck) | Your commands. Every machine. Compiles neutral aliases into shell-specific syntax. |
 
 ## About the contents of this repository
 
